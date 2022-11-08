@@ -1,0 +1,42 @@
+{
+    "marketing" : [
+          {
+              "plane" : "wordpress" ,
+               "items" : [
+                     {
+                        "pointer" : "pointe1" 
+                     },
+                     {
+                        "pointer" : "pointe2" 
+                     }
+               ]
+          }
+    ] ,
+    "design" : [
+            {
+                 "plane" : "prototype" ,
+                  "items" : [
+                       {
+                        "pointer" : "layout"
+                       } ,
+                       {
+                         "pointer" : "findout"
+                       }
+                  ]
+            }
+    ],
+    "sales" : [
+        {
+             "plane" : "sales1" ,
+              "items" : [
+                   {
+                    "pointer" : "plane1"
+                   } ,
+                   {
+                     "pointer" : "implement"
+                   }
+              ]
+        }
+]
+
+}
